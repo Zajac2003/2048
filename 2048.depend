@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1662926848 source:c:\codeblocks\dsa\2048\main.cpp
+	<iostream>
+	<cstdlib>
+	<time.h>
+	<windows.h>
+	<conio.h>
+
